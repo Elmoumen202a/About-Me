@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm passionate about coding and creating beautiful, functi
 ## About Me
 
 - 🐍 Python enthusiast, HTML & CSS aficionado
-- 🌱 Learning JavaScript and Dart
+- 🌱 Learning JavaScript, SQL, Django and Dart
 - 💻 Love using Figma for design and Visual Studio Code for coding
 - 🚀 Always excited to explore new technologies
 
