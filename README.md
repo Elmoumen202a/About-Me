@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# 👩‍💻 Hello, World! 👋
 
 Welcome to my GitHub! I'm passionate about coding and creating beautiful, functional projects. Here's a little bit about me:
 
@@ -6,14 +6,15 @@ Welcome to my GitHub! I'm passionate about coding and creating beautiful, functi
 
 - 🐍 Python enthusiast, HTML & CSS aficionado
 - 🌱 Learning JavaScript, SQL, Django and Dart
-- 💻 Love using Figma for design and Visual Studio Code for coding
+- 🎨 Crafting pixel-perfect designs with Figma
+- 💻 Living the VS Code life
 - 🚀 Always excited to explore new technologies
 
 ## My Skills
 
 - **Python:** Proficient in Python programming, used for a variety of applications.
 - **Web Development:** Skilled in HTML and CSS, creating visually appealing and responsive web pages.
-- **Learning:** Currently diving into JavaScript and Dart to enhance my web development capabilities.
+- **Learning:** Currently diving into JJavaScript, SQL, Django and Dart to enhance my web development capabilities.
 
 ## Tools I Love
 
