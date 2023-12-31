@@ -1,5 +1,7 @@
 # 👩‍💻 Hello, World! 👋
-
+<p align="center">
+  <img src="img/foto1.jpg" alt="">
+</p>
 Welcome to my GitHub! I'm passionate about coding and creating beautiful, functional projects. Here's a little bit about me:
 
 ## About Me
@@ -14,7 +16,7 @@ Welcome to my GitHub! I'm passionate about coding and creating beautiful, functi
 
 - **Python:** Proficient in Python programming, used for a variety of applications.
 - **Web Development:** Skilled in HTML and CSS, creating visually appealing and responsive web pages.
-- **Learning:** Currently diving into JJavaScript, SQL, Django and Dart to enhance my web development capabilities.
+- **Learning:** Currently diving into JavaScript, SQL, Django, and Dart to enhance my web development capabilities.
 
 ## Tools I Love
 
