@@ -1,6 +1,7 @@
 <p align="center" style="position: relative; display: inline-block;">
   <img src="img/foto1.jpg" alt="Your Image Description" style="border: 8px solid #fff; border-radius: 50%; width: 100px; height: 100px; object-fit: cover; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);">
 </p>
+
 # 👩‍💻 Hello, World! 👋
 
 Welcome to my GitHub! I'm passionate about coding and creating beautiful, functional projects. Here's a little bit about me:
