@@ -1,6 +1,6 @@
 # 👩‍💻 Hello, World! 👋
 <p align="center">
-  <img src="img/foto1.jpg" alt="Your Image Description" style="border-radius: 50%; width: 100px; height: 100px;">
+  <img src="img/foto1.jpg" alt="Your Image Description" style="border: 2px solid #333; border-radius: 50%; width: 100px; height: 100px; object-fit: cover;">
 </p>
 Welcome to my GitHub! I'm passionate about coding and creating beautiful, functional projects. Here's a little bit about me:
 
