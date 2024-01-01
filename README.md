@@ -5,10 +5,10 @@ Welcome to my GitHub! I'm passionate about coding and creating beautiful, functi
 ## About Me
 
 - 🐍 Python enthusiast, HTML & CSS aficionado
-- 🌱 Learning JavaScript, SQL, Django and Dart
+- 🌱 Learning JavaScript, SQL, Django, Dart, and more
 - 🎨 Crafting pixel-perfect designs with Figma
 - 💻 Living the VS Code life
-- 🚀 Always excited to explore new technologies
+- 🚀 Always excited to explore new language and technologies
 
 ## My Skills
 
