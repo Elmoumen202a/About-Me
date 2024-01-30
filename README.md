@@ -11,10 +11,11 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
 ## My Skills
 
-- **Python:**![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)Crafting magic with Python for various applications.
+- **Python:**Crafting magic with Python for various applications.
 - **Web Wizardry:** HTML and CSS sorcery for visually stunning and responsive web pages.
 - **Learning Journey:** Currently diving into the realms of JavaScript, SQL, Django, and Dart to amplify my web development prowess.
 
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Django-1572B6?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
