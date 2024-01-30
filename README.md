@@ -11,7 +11,7 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
 ## My Skills
 
-- **Python:**Crafting magic with Python for various applications.
+- **Python:** Crafting magic with Python for various applications.
 - **Web Wizardry:** HTML and CSS sorcery for visually stunning and responsive web pages.
 - **Learning Journey:** Currently diving into the realms of JavaScript, SQL, Django, and Dart to amplify my web development prowess.
 
@@ -41,5 +41,5 @@ Open to cosmic collaborations and eager to absorb new knowledge. If you share si
 Drop me a message at [youssoufelmoumen@gmail.com](mailto:youssoufelmoumen@gmail.com)
 
 Happy coding! 🚀
-
+## 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elmoumen202a&show_icons=true&hide=stars,issues&theme=buefy)
