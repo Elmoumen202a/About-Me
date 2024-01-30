@@ -5,10 +5,10 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 ## About Me
 
 - 🐍 Pythonista | HTML & CSS Maestro
-- 🌱 Current explorations: JavaScript, React, SQL, Django, Dart, and beyond
+- 🌱 Current explorations: Java, C, JavaScript, React, SQL, Django, Dart, and beyond
 - 🎨 Pixel-perfect designs with Figma
 - 💻 Living the VS Code life
-
+  
 ## My Skills
 
 - **Python:** Crafting magic with Python for various applications.
