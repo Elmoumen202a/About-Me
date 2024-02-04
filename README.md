@@ -51,7 +51,6 @@ Drop me a message at [youssoufelmoumen@gmail.com](mailto:youssoufelmoumen@gmail.
 Happy coding! 🚀
 ## 
 <a> 
-    <a href="https://github.com/Elmoumen202a"><img alt="Youssouf Elmoumen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Elmoumen202a&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Elmoumen202a"><img alt="Youssouf Elmoumen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Elmoumen202a&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
