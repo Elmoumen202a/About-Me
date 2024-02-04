@@ -37,9 +37,6 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
 Dive into my repositories and discover a galaxy of projects showcasing my skills and passions. Fork, clone, contribute – let's collaborate and build something extraordinary!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elmoumen202a&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
 ## Let's Connect 🚀
 
 Open to cosmic collaborations and eager to absorb new knowledge. If you share similar interests or just want to geek out about coding, don't hesitate to reach out. Let's connect and conjure up something amazing together!
@@ -51,6 +48,7 @@ Drop me a message at [youssoufelmoumen@gmail.com](mailto:youssoufelmoumen@gmail.
 Happy coding! 🚀
 ## 
 <a> 
+    <a href="https://github.com/Elmoumen202a"><img alt="Youssouf Elmoumen's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Elmoumen202a&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Elmoumen202a"><img alt="Youssouf Elmoumen's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Elmoumen202a&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
