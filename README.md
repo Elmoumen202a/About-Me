@@ -37,6 +37,9 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
 Dive into my repositories and discover a galaxy of projects showcasing my skills and passions. Fork, clone, contribute – let's collaborate and build something extraordinary!
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Elmoumen202a&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
 ## Let's Connect 🚀
 
 Open to cosmic collaborations and eager to absorb new knowledge. If you share similar interests or just want to geek out about coding, don't hesitate to reach out. Let's connect and conjure up something amazing together!
