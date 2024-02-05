@@ -4,9 +4,9 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
 ## About Me
 
-- 🐍 Pythonista | HTML & CSS Maestro.
+- 🐍 Pythonista.
 - 🌱 I’m currently learning more about Fullstack Web development.
-- 🔭Current explorations: Java, C, JavaScript, React, SQL, Django, Dart, and beyond.
+- 🔭Current explorations: HTML, CSS, Java, C, JavaScript, React, SQL, Django, Dart, and beyond.
 - 🎨 Pixel-perfect designs with Figma.
 - 💻 Living the VS Code life.
   
