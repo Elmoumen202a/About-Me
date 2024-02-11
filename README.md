@@ -9,7 +9,7 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
 - 🐍 Pythonista  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🌱 I’m currently learning more about Fullstack Web development.
-- 🔭Current explorations: HTML, CSS, Java, C, JavaScript, React, SQL, Django, and beyond.
+- 🔭 HTML, CSS, Java, C, JavaScript, React, SQL, Django, and beyond.
 - 🎨 Pixel-perfect designs with Figma.
 - 💻 Living the VS Code life.
 
