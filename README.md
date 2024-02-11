@@ -1,15 +1,20 @@
-# 👨‍💻 Hello, World! 👋
+<h2 align='center'><strong>👨‍💻 Hello there 👋, I'm Youssef El moumen</strong></h2>
 
 Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to craft beautiful, functional projects that push the boundaries of creativity. Here's a glimpse into my coding universe:
 
 ## About Me
+<p align="center">
+  <img align="right" style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
 
-- 🐍 Pythonista.
+- 🐍 Pythonista  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🌱 I’m currently learning more about Fullstack Web development.
-- 🔭Current explorations: HTML, CSS, Java, C, JavaScript, React, SQL, Django, Dart, and beyond.
+- 🔭Current explorations: HTML, CSS, Java, C, JavaScript, React, SQL, Django, and beyond.
 - 🎨 Pixel-perfect designs with Figma.
 - 💻 Living the VS Code life.
-  
+
+
+  </br>
 ## My Skills
 
 - **Python:** Crafting magic with Python for various applications.
