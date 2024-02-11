@@ -16,7 +16,6 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
 
   </br>
 ## My Skills
-
 - **Python:** Crafting magic with Python for various applications.
 - **Web Wizardry:** HTML and CSS sorcery for visually stunning and responsive web pages.
 - **Learning Journey:** Currently diving into the realms of JavaScript, SQL, Django, and Dart to amplify my web development prowess.
