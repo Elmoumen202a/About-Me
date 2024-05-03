@@ -7,7 +7,7 @@ Welcome to my GitHub playground! 🚀 I'm a coding enthusiast on a mission to cr
   <img align="right" style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 </p>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm all about Python 🐍, SQL, and a bunch of data software tools.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm all about Python 🐍, SQL, and more.
 - 🌱 I’m currently learning more about Fullstack Web development.
 - 🔭 HTML, CSS, Java, C, JavaScript, React, SQL, Django, and beyond.
 - 🎨 Pixel-perfect designs with Figma.
